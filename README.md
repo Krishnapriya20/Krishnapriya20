@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Krishnapriya20
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning basic python and HTML codes
-- 💞️ I’m seaching for internships 
+-  Hi, I’m @Krishnapriya20
+-  I’m interested in software developer
+-  I’m currently learning basic python and HTML codes
+-  I’m seaching for internships 
 - 
 
 <!---
